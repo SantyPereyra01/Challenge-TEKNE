@@ -50,7 +50,7 @@ Challenge técnico de Data & AI para Tekne Data Labs. Se trabaja con datos reale
 
 ### 1. Data Engineering & Quality (35%)
 
-**Archivo:** `01_data_engineering_quality.ipynb`
+**Archivo:** `01_Data_Engineering_&_Quality.ipynb`
 
 **Qué cubre:**
 - Extracción del ZIP y carga de los 3 CSVs
