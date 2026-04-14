@@ -1,0 +1,11 @@
+transaction_id,insurance_type,claim_amount,suspicion_score,status_real,prioridad_auditor
+TXN00004375,Life,69000.0,70,A,Alta
+TXN00009844,Life,90000.0,70,A,
+TXN00000014,Life,51000.0,60,A,
+TXN00000126,Life,36000.0,60,A,
+TXN00000271,Life,72000.0,60,A,
+TXN00000506,Life,86000.0,60,A,
+TXN00000673,Life,62000.0,60,A,
+TXN00000855,Property,27000.0,5,A,Alta
+TXN00002985,Property,40000.0,5,A,
+TXN00006105,Travel,2000.0,5,A,
